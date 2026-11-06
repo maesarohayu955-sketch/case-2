@@ -1,3 +1,4 @@
+LINK STREAMLIT : https://case-2-8kmrsw2z5xcif7xreka2z5.streamlit.app/
 # Panduan Eksekusi Bedah Kasus 2: Dataset Profil Mahasiswa
 
 ## 📁 Struktur Direktori
